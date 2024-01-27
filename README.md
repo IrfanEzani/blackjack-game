@@ -1,4 +1,5 @@
 # Blackjack Game Simulation
+![image](https://github.com/IrfanEzani/blackjack-game/assets/59435235/07ea74af-aa4b-4ccc-bb11-09ed3d064076)
 
 ## Overview
 A comprehensive Java application implementing the classic casino game, Blackjack (21). This project encompasses object-oriented design principles, featuring modularized packages for game logic (blackjack), card deck handling (deckOfCards), and graphical user interface (GUI). The core gameplay logic in BlackjackModel.java integrates simple algorithms for card dealing, hand assessment, and game outcome determination. The deckOfCards package abstracts card representations with Card, Deck, Rank, and Suit classes, facilitating easy deck manipulation and card management. The GUI, built using Java Swing, provides a rich interactive experience, enabled by the BlackjackGUI.java and ImageLoader.java classes, supporting image caching for optimal performance.

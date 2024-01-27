@@ -1,11 +1,11 @@
 # Blackjack Game Simulation
-![image](https://github.com/IrfanEzani/blackjack-game/assets/59435235/07ea74af-aa4b-4ccc-bb11-09ed3d064076)
+![image](https://github.com/IrfanEzani/blackjack-game/assets/59435235/d6d46d11-7501-4fd9-b860-3ff23dcaf2d1)
 
 ## Overview
 A comprehensive Java application implementing the classic casino game, Blackjack (21). This project encompasses object-oriented design principles, featuring modularized packages for game logic (blackjack), card deck handling (deckOfCards), and graphical user interface (GUI). The core gameplay logic in BlackjackModel.java integrates simple algorithms for card dealing, hand assessment, and game outcome determination. The deckOfCards package abstracts card representations with Card, Deck, Rank, and Suit classes, facilitating easy deck manipulation and card management. The GUI, built using Java Swing, provides a rich interactive experience, enabled by the BlackjackGUI.java and ImageLoader.java classes, supporting image caching for optimal performance.
 
 ## About Blackjack
-Blackjack is a popular card game played in casinos worldwide. The goal of the game is to beat the dealer's hand without going over 21. Each card has a value (number cards are worth their number, face cards are worth 10, and Aces can be 1 or 11). Players are dealt two cards and can choose to "Hit" (take another card) or "Stand" (keep their current hand). The dealer plays after the players, and the goal is to get a higher total than the dealer without exceeding 21. A "Blackjack" is when your first two cards are an Ace and a 10-value card, which is the best possible hand.
+The goal of the game is to beat the dealer's hand without going over 21. Each card has a value (number cards are worth their number, face cards are worth 10, and Aces can be 1 or 11). Players are dealt two cards and can choose to "Hit" (take another card) or "Stand" (keep their current hand). The dealer plays after the players, and the goal is to get a higher total than the dealer without exceeding 21. A "Blackjack" is when your first two cards are an Ace and a 10-value card, which is the best possible hand.
 
 ## Features
 - **Core Gameplay**: Play against a virtual dealer in a simulated game of Blackjack.
